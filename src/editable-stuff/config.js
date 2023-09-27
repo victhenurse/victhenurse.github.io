@@ -8,8 +8,8 @@ const mainBody = {
   gradientColors: "#4484ce, #1ad7c0, #ff9b11, #9b59b6, #ff7f7f, #ecf0f1",
   firstName: "Victor",
   middleName: "",
-  lastName: "J",
-  message: " Passionate about changing the world with nursing. ",
+  lastName: "Jimenez",
+  message: " Passionate about changing the world with nursing.",
   icons: [
     // {
     //   image: "fa-github",
