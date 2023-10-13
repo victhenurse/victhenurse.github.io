@@ -59,7 +59,7 @@ const about = {
 };
 
 // PROJECTS SECTION
-// Setting up project lenght will automatically fetch your that number of recently updated projects, or you can set this field 0 to show none.
+// Setting up project length will automatically fetch your that number of recently updated projects, or you can set this field 0 to show none.
 //      i.e: reposLength: 0,
 // If you want to display specfic projects, add the repository names,
 //      i.e ["repository-1", "repo-2"]
@@ -131,18 +131,23 @@ const getInTouch = {
 };
 
 const experiences = {
-  show: false,
+  show: true,
   heading: "Experiences",
   data: [
     {
-      role: 'Software Engineer',// Here Add Company Name
-      companylogo: require('../assets/img/dell.png'),
-      date: 'June 2018 – Present',
+      role: 'Registered Nurse',// Here Add Company Name
+      companylogo: require('../assets/img/doctorshospital.jpg'),
+      date: 'January 2022 – Present',
     },
     {
-      role: 'Front-End Developer',
-      companylogo: require('../assets/img/boeing.png'),
-      date: 'May 2017 – May 2018',
+      role: 'Registered Nurse',
+      // companylogo: require('../assets/img/boeing.png'),
+      date: 'August 2022 – Present',
+    },
+    {
+      role: 'Registered Nurse',
+      // companylogo: require('../assets/img/boeing.png'),
+      date: 'January 2022 – August 2023',
     },
   ]
 }
